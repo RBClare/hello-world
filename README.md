@@ -1,2 +1,2 @@
 # hello-world
-First repository to learn github
+My name is Bart Clare and I'm a developer at Coyote Logistics
